@@ -1,0 +1,173 @@
+*{
+    background-color: black;
+    font-family: Oswald, sans-serif;
+}
+
+#Banner-Superior-Inicio{
+    margin-top: 0.5cm;
+    margin-right: 0cm;
+    margin-bottom: 0cm;
+    margin-left: 8cm;
+}
+
+#Banner-Superior-1{
+    color: lightgreen;
+    margin-top: 0.25cm;
+    margin-right: 0cm;
+    margin-bottom: 0.25cm;
+    margin-left: 8cm;
+}
+
+#Nombre-Presentación{
+	color: lightgreen;
+    font-weight: bold;
+    width: 800px;
+    margin-top: 2cm;
+    margin-right: 0cm;
+    margin-bottom: 0cm;
+    margin-left: 10cm;
+}
+
+#Procedencia{
+    color: orchid;
+    margin-top: 0.15cm;
+    margin-right: 0cm;
+    margin-bottom: 0cm;
+    margin-left: 10cm;
+}
+
+#Ocupación-actual{
+    color: lightgray;
+    font-size: large;
+    margin-top: 0.25cm;
+    margin-right: 0cm;
+    margin-bottom: 1cm;
+    margin-left: 10cm;
+}
+
+#Portfolios{
+    font-size: larger;
+    color: orchid;
+    font-weight: bold;
+    margin-top: 0.5cm;
+    margin-right: 0cm;
+    margin-bottom: 0cm;
+    margin-left: 8cm;
+}
+
+#Información-de-contacto{
+    color: orchid;
+    margin-top: 0.5cm;
+    margin-right: 0cm;
+    margin-bottom: 0cm;
+    margin-left: 8cm;
+}
+
+#Biografía-laboral {
+    color: lightgrey;
+    text-align: justify;
+    margin-top: 0cm;
+    margin-right: 0cm;
+    margin-bottom: 0cm;
+    margin-left: 8cm;
+}
+
+#Subtítulos-biografía-laboral{
+    color: lightgreen;
+    text-align: left;
+    margin-top: 0.2cm;
+    margin-right: 0cm;
+    margin-bottom: 0.2cm;
+    margin-left: 0cm;
+}
+
+a{
+    color: orchid;
+}
+
+#Dejar-email{
+    color: lightgrey;
+    margin-top: 0.2cm;
+    margin-right: 0cm;
+    margin-bottom: 0.2cm;
+    margin-left: 8cm;
+}
+
+#Buscar-en-este-cv{
+    color: lightgray;
+    margin-top: 0.2cm;
+    margin-right: 0cm;
+    margin-bottom: 0.2cm;
+    margin-left: 8cm;
+}
+
+#Sugerencias{
+    color:lightgrey;
+    margin-top: 0.2cm;
+    margin-right: 0cm;
+    margin-bottom: 0.2cm;
+    margin-left: 4cm;
+}
+
+#email{
+    color:orchid;
+}
+
+#site-search{
+    color:orchid;
+}
+
+#suggestions{
+    color:orchid;
+}
+
+#submit{
+    color: lightgreen;
+}
+
+#Volver-hacia-arriba{
+    color: orchid;
+    border-color:lightgreen;
+    border-width: 2px;
+    margin-top: 0.2cm;
+    margin-right: 0cm;
+    margin-bottom: 0.3cm;
+    margin-left: 17.1cm;
+}
+
+#Copyright{
+    color: lightgray;
+    width: 600px;
+    margin-top: 0.2cm;
+    margin-right: 0cm;
+    margin-bottom: 0.5cm; 
+    margin-left: 14cm;
+}
+
+#Foto-de-perfil{
+    image-rendering: optimizeQuality;
+    float: left;
+    margin-top: 0cm;
+    margin-right: 0cm;
+    margin-bottom: 1cm;
+    margin-left: 1cm;
+}
+
+body{
+    color: lightgreen;
+    width: 1200px;
+}
+
+ul{
+    margin-left: 8cm;
+}
+
+li{
+    width: 200px;
+    list-style-type: square;
+}
+
+
+/**
+Ver de usar <p id="..."> ... </p> + #"..."{ }
+*/
